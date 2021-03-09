@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "side": "moovelous:block/cow_bee_hive_side",
+    "front": "moovelous:block/cow_bee_hive_front",
+    "bottom": "moovelous:block/cow_bee_hive_bottom",
+    "top": "moovelous:block/cow_bee_hive_top"
+  }
+}
